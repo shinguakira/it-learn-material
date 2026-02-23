@@ -1,0 +1,8 @@
+{
+  "name": "it-learn-material",
+  "version": "1.0.0",
+  "description": "Multilingual IT learning material for web development",
+  "scripts": {
+    "sync": "node sync.js"
+  }
+}
