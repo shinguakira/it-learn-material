@@ -24,14 +24,16 @@ Gamitin ang mga pahina na ito para tingnan ang mga konsepto, syntax, at halimbaw
 ### [Frontend](frontend/)
 - [HTML](frontend/html/) — Istraktura ng mga web page
 - [CSS](frontend/css/) — Pag-istilo at layout
-- [JavaScript](frontend/javascript/) — Programming para sa web
-- [TypeScript](frontend/typescript/) — JavaScript na may mga uri (types)
-- [React](frontend/react/) — UI component library
+- [TypeScript (JavaScript)](frontend/typescript/) — Programming para sa web
+  - [React](frontend/typescript/react/) — UI component library
+    - [Next.js](frontend/typescript/react/nextjs/) — Full-stack React framework
 
 ### [Backend](backend/)
-- [Node.js](backend/nodejs/) — JavaScript runtime
-- [Express](backend/express/) — Web framework para sa Node.js
-- [Mga Database](backend/databases/) — Pag-iimbak at pagkuha ng data
+- [TypeScript (JavaScript)](backend/typescript/) — Server-side programming
+  - [Node.js](backend/typescript/nodejs/) — JavaScript runtime
+  - [Express](backend/typescript/express/) — Web framework para sa Node.js
+- [Common](backend/common/) — Mga shared na concepts
+  - [Mga Database](backend/common/databases/) — Pag-iimbak at pagkuha ng data
 
 ### [Infrastructure](infrastructure/)
 - [AWS](infrastructure/aws/) — Amazon Web Services

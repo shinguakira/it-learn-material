@@ -2,7 +2,7 @@
 
 [← Back to Beginner Tasks](../index.md)
 
-> Reference: [HTML](../../../frontend/html/) | [CSS](../../../frontend/css/) | [JavaScript](../../../frontend/javascript/)
+> Reference: [HTML](../../../frontend/html/) | [CSS](../../../frontend/css/) | [TypeScript (JavaScript)](../../../frontend/typescript/)
 
 Practice what you've learned by customizing a professional restaurant website. The complete code is provided below — your job is to modify it.
 

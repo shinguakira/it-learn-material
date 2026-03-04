@@ -2,7 +2,7 @@
 
 [← 初級タスクに戻る](../index.md)
 
-> 参照：[JavaScript](../../../frontend/javascript/) — インタラクティブな機能を学ぶ
+> 参照：[TypeScript（JavaScript）](../../../frontend/typescript/) — インタラクティブな機能を学ぶ
 
 ページにインタラクティブな機能を追加しましょう。
 

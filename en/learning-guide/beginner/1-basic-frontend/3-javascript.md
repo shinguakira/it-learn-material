@@ -2,7 +2,7 @@
 
 [← Back to Beginner Tasks](../index.md)
 
-> Reference: [JavaScript](../../../frontend/javascript/) — Learn about interactivity
+> Reference: [TypeScript (JavaScript)](../../../frontend/typescript/) — Learn about interactivity
 
 Add interactivity to your page.
 

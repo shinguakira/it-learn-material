@@ -15,7 +15,7 @@
 
 ## Reactタスク
 
-> 参照：[React](../../frontend/react/) — UIコンポーネントを学ぶ
+> 参照：[React](../../frontend/typescript/react/) — UIコンポーネントを学ぶ
 
 - [ ] `create-react-app` またはViteでReactアプリを作成する
 - [ ] 再利用可能なコンポーネント（例：Card、Button）を作る
@@ -25,7 +25,7 @@
 
 ## バックエンドタスク
 
-> 参照：[Node.js](../../backend/nodejs/) | [Express](../../backend/express/) | [データベース](../../backend/databases/)
+> 参照：[Node.js](../../backend/typescript/nodejs/) | [Express](../../backend/typescript/express/) | [データベース](../../backend/common/databases/)
 
 - [ ] 基本的なNode.js HTTPサーバーを作成する
 - [ ] ルート付きのExpressアプリをセットアップする

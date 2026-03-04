@@ -24,14 +24,16 @@ Use these pages to look up concepts, syntax, and examples as you work through th
 ### [Frontend](frontend/)
 - [HTML](frontend/html/) — Structure of web pages
 - [CSS](frontend/css/) — Styling and layout
-- [JavaScript](frontend/javascript/) — Programming for the web
-- [TypeScript](frontend/typescript/) — Typed JavaScript
-- [React](frontend/react/) — UI component library
+- [TypeScript (JavaScript)](frontend/typescript/) — Programming for the web
+  - [React](frontend/typescript/react/) — UI component library
+    - [Next.js](frontend/typescript/react/nextjs/) — Full-stack React framework
 
 ### [Backend](backend/)
-- [Node.js](backend/nodejs/) — JavaScript runtime
-- [Express](backend/express/) — Web framework for Node.js
-- [Databases](backend/databases/) — Data storage and retrieval
+- [TypeScript (JavaScript)](backend/typescript/) — Server-side programming
+  - [Node.js](backend/typescript/nodejs/) — JavaScript runtime
+  - [Express](backend/typescript/express/) — Web framework for Node.js
+- [Common](backend/common/) — Shared concepts
+  - [Databases](backend/common/databases/) — Data storage and retrieval
 
 ### [Infrastructure](infrastructure/)
 - [AWS](infrastructure/aws/) — Amazon Web Services

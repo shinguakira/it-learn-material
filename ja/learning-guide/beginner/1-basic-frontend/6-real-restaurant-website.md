@@ -2,7 +2,7 @@
 
 [← 初級タスクに戻る](../index.md)
 
-> 参照：[HTML](../../../frontend/html/) | [CSS](../../../frontend/css/) | [JavaScript](../../../frontend/javascript/)
+> 参照：[HTML](../../../frontend/html/) | [CSS](../../../frontend/css/) | [TypeScript（JavaScript）](../../../frontend/typescript/)
 
 学んだことを活かして、プロフェッショナルなレストランWebサイトをカスタマイズしましょう。完全なコードが用意されています。あなたの仕事はそれを自分のものに変更することです。
 

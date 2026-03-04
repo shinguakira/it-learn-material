@@ -15,7 +15,7 @@ Build on your fundamentals with more advanced challenges.
 
 ## React Tasks
 
-> Reference: [React](../../frontend/react/) — Learn about UI components
+> Reference: [React](../../frontend/typescript/react/) — Learn about UI components
 
 - [ ] Create a React app with `create-react-app` or Vite
 - [ ] Build a reusable component (e.g., Card, Button)
@@ -25,7 +25,7 @@ Build on your fundamentals with more advanced challenges.
 
 ## Backend Tasks
 
-> Reference: [Node.js](../../backend/nodejs/) | [Express](../../backend/express/) | [Databases](../../backend/databases/)
+> Reference: [Node.js](../../backend/typescript/nodejs/) | [Express](../../backend/typescript/express/) | [Databases](../../backend/common/databases/)
 
 - [ ] Create a basic Node.js HTTP server
 - [ ] Set up an Express app with routes

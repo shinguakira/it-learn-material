@@ -15,7 +15,7 @@ Palakasin ang iyong pundasyon gamit ang mas advanced na mga challenge.
 
 ## Mga React Task
 
-> Sanggunian: [React](../../frontend/react/) — Alamin ang tungkol sa UI components
+> Sanggunian: [React](../../frontend/typescript/react/) — Alamin ang tungkol sa UI components
 
 - [ ] Gumawa ng React app gamit ang `create-react-app` o Vite
 - [ ] Gumawa ng reusable component (hal., Card, Button)
@@ -25,7 +25,7 @@ Palakasin ang iyong pundasyon gamit ang mas advanced na mga challenge.
 
 ## Mga Backend Task
 
-> Sanggunian: [Node.js](../../backend/nodejs/) | [Express](../../backend/express/) | [Mga Database](../../backend/databases/)
+> Sanggunian: [Node.js](../../backend/typescript/nodejs/) | [Express](../../backend/typescript/express/) | [Mga Database](../../backend/common/databases/)
 
 - [ ] Gumawa ng basic na Node.js HTTP server
 - [ ] Mag-setup ng Express app na may mga route

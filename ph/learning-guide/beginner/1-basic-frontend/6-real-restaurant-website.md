@@ -2,7 +2,7 @@
 
 [← Bumalik sa Beginner Tasks](../index.md)
 
-> Sanggunian: [HTML](../../../frontend/html/) | [CSS](../../../frontend/css/) | [JavaScript](../../../frontend/javascript/)
+> Sanggunian: [HTML](../../../frontend/html/) | [CSS](../../../frontend/css/) | [TypeScript (JavaScript)](../../../frontend/typescript/)
 
 Ipraktis ang natutunan mo sa pamamagitan ng pag-customize ng isang propesyonal na restaurant website. Ang kumpletong code ay ibinigay — ang trabaho mo ay baguhin ito.
 

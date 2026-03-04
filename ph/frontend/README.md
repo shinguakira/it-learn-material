@@ -6,8 +6,8 @@ Ang frontend development ay nakatuon sa pagbuo ng user interface at karanasan ng
 
 ## Mga Paksa
 
-- [HTML](html/) — Mga pundasyon ng mga web page
+- [HTML](html/) — Ang mga building block ng mga web page
 - [CSS](css/) — Pag-istilo, layout, at responsive design
-- [JavaScript](javascript/) — Pagpapainteraktibo ng mga pahina
-- [TypeScript](typescript/) — Pagdagdag ng mga uri sa JavaScript
-- [React](react/) — Pagbuo ng mga reusable na UI component
+- [TypeScript (JavaScript)](typescript/) — Programming para sa web
+  - [React](typescript/react/) — Pagbuo ng reusable na UI components
+    - [Next.js](typescript/react/nextjs/) — Full-stack React framework

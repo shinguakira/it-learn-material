@@ -2,10 +2,12 @@
 
 [← Bumalik sa Home](../README.md)
 
-Ang backend development ay sumasaklaw sa server-side logic, mga API, at pamamahala ng data.
+Ang backend development ay sumasaklaw sa server-side logic, APIs, at data management.
 
 ## Mga Paksa
 
-- [Node.js](nodejs/) — Server-side JavaScript runtime
-- [Express](express/) — Minimal na web framework para sa Node.js
-- [Mga Database](databases/) — Pag-iimbak at paghahanap ng data
+- [TypeScript (JavaScript)](typescript/) — Server-side programming
+  - [Node.js](typescript/nodejs/) — JavaScript runtime
+  - [Express](typescript/express/) — Minimal web framework para sa Node.js
+- [Common](common/) — Mga shared na backend concepts
+  - [Mga Database](common/databases/) — Pag-iimbak at pag-query ng data

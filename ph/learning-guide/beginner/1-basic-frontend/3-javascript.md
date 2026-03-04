@@ -2,7 +2,7 @@
 
 [← Bumalik sa Beginner Tasks](../index.md)
 
-> Sanggunian: [JavaScript](../../../frontend/javascript/) — Alamin ang tungkol sa interactivity
+> Sanggunian: [TypeScript (JavaScript)](../../../frontend/typescript/) — Alamin ang tungkol sa interactivity
 
 Magdagdag ng interactivity sa page mo.
 

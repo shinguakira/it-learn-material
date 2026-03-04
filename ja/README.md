@@ -24,14 +24,16 @@ IT学習教材へようこそ！このガイドはフルスタックWeb開発を
 ### [フロントエンド](frontend/)
 - [HTML](frontend/html/) — Webページの構造
 - [CSS](frontend/css/) — スタイリングとレイアウト
-- [JavaScript](frontend/javascript/) — Web向けプログラミング
-- [TypeScript](frontend/typescript/) — 型付きJavaScript
-- [React](frontend/react/) — UIコンポーネントライブラリ
+- [TypeScript（JavaScript）](frontend/typescript/) — Web向けプログラミング
+  - [React](frontend/typescript/react/) — UIコンポーネントライブラリ
+    - [Next.js](frontend/typescript/react/nextjs/) — フルスタックReactフレームワーク
 
 ### [バックエンド](backend/)
-- [Node.js](backend/nodejs/) — JavaScriptランタイム
-- [Express](backend/express/) — Node.js向けWebフレームワーク
-- [データベース](backend/databases/) — データの保存と取得
+- [TypeScript（JavaScript）](backend/typescript/) — サーバーサイドプログラミング
+  - [Node.js](backend/typescript/nodejs/) — JavaScriptランタイム
+  - [Express](backend/typescript/express/) — Node.js向けWebフレームワーク
+- [共通](backend/common/) — 共通の概念
+  - [データベース](backend/common/databases/) — データの保存と取得
 
 ### [インフラ](infrastructure/)
 - [AWS](infrastructure/aws/) — Amazon Web Services

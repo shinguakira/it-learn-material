@@ -6,6 +6,8 @@ Backend development covers server-side logic, APIs, and data management.
 
 ## Topics
 
-- [Node.js](nodejs/) — Server-side JavaScript runtime
-- [Express](express/) — Minimal web framework for Node.js
-- [Databases](databases/) — Storing and querying data
+- [TypeScript (JavaScript)](typescript/) — Server-side programming
+  - [Node.js](typescript/nodejs/) — JavaScript runtime
+  - [Express](typescript/express/) — Minimal web framework for Node.js
+- [Common](common/) — Shared backend concepts
+  - [Databases](common/databases/) — Storing and querying data
