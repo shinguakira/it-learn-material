@@ -8,7 +8,7 @@
 
 - [ ] HTMLの `</body>` の前に `<script src="script.js"></script>` を追加する
 - [ ] `script.js` ファイルを作成する
-- [ ] `console.log("Hello!")` を使い、ブラウザのコンソールで確認する（F12 → Console）
+- [ ] `console.log("Hello!")` を使い、ブラウザのコンソールで確認する（F12を押す、またはページを右クリック → 検証 → Consoleタブ）
 - [ ] 変数を作成し、`document.getElementById()` でページに表示する：
   ```js
   const greeting = "Welcome to my resume!";
@@ -107,7 +107,8 @@
 ## 理解すべきポイント
 
 - `<script>` はJavaScriptとHTMLを接続する
-- `console.log()` はデバッグ用 — F12でブラウザのコンソールを確認
+- `console.log()` はデバッグ用 — F12または右クリック → 検証 → Consoleでブラウザのコンソールを開く
+  - 参考: [How to open DevTools](https://developer.chrome.com/docs/devtools/open) | [Console overview](https://developer.chrome.com/docs/devtools/console)
 - `alert()` はポップアップメッセージを表示する — 簡単なテストに便利
 - `document.getElementById()` は `id` で1つの要素を選択する
 - `document.getElementsByClassName()` は `class` で複数の要素を選択する — コレクションが返されるのでループで処理する

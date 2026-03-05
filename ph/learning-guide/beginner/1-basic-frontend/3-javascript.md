@@ -8,7 +8,7 @@ Magdagdag ng interactivity sa page mo.
 
 - [ ] Magdagdag ng `<script src="script.js"></script>` bago ang `</body>` sa HTML mo
 - [ ] Gumawa ng `script.js` file
-- [ ] Gumamit ng `console.log("Hello!")` at tingnan ang browser console (F12 → Console)
+- [ ] Gumamit ng `console.log("Hello!")` at tingnan ang browser console (pindutin ang F12, o right-click sa page → Inspect → Console tab)
 - [ ] Gumawa ng variable at ipakita ito sa page gamit ang `document.getElementById()`:
   ```js
   const greeting = "Welcome to my resume!";
@@ -107,7 +107,8 @@ Magdagdag ng interactivity sa page mo.
 ## Dapat Mong Maintindihan
 
 - Ang `<script>` ay nagkokonekta ng JavaScript sa HTML mo
-- Ang `console.log()` ay para sa debugging — tingnan ang browser console gamit ang F12
+- Ang `console.log()` ay para sa debugging — buksan ang browser console gamit ang F12 o right-click → Inspect → Console
+  - Opsyonal: [How to open DevTools](https://developer.chrome.com/docs/devtools/open) | [Console overview](https://developer.chrome.com/docs/devtools/console)
 - Ang `alert()` ay nagpapakita ng popup message — maganda para sa mabilis na testing
 - Ang `document.getElementById()` ay pumipili ng isang element gamit ang `id` nito
 - Ang `document.getElementsByClassName()` ay pumipili ng maraming elements gamit ang `class` nila — nagbabalik ng collection na kailangan mong i-loop
