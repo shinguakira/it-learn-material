@@ -1010,3 +1010,5 @@ After reading and modifying this website, you should understand:
 - **`e.preventDefault()`** stops a form from reloading the page
 
 > Previous: [5. Deploy](5-deploy.md)
+
+> Next section: [2. Basic React — 0. Setup Vite + React](../2-basic-react/0-setup-vite-react.md)

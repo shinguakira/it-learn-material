@@ -40,4 +40,4 @@ Nakumpleto mo na ang lahat ng beginner tasks. Kaya mo na ngayon:
 - I-track ang code mo gamit ang Git at GitHub
 - I-deploy ang site mo para makita ng buong mundo
 
-> Susunod na level: [Mga Intermediate Task](../../intermediate/index.md)
+> Susunod: [6. Real na Restaurant Website](6-real-restaurant-website.md)

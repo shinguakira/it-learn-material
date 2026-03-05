@@ -69,3 +69,5 @@
 - **`e.preventDefault()`**でフォームがページをリロードするのを防ぐ
 
 > 前へ：[5. デプロイ](5-deploy.md)
+
+> 次のセクション：[2. 基本React — 0. Vite + Reactのセットアップ](../2-basic-react/0-setup-vite-react.md)

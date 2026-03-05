@@ -69,3 +69,5 @@ Pagkatapos basahin at baguhin ang website na ito, dapat mong maintindihan:
 - **`e.preventDefault()`** — pumipigil sa form na i-reload ang page
 
 > Nakaraan: [5. Deploy](5-deploy.md)
+
+> Susunod na section: [2. Basic React — 0. Setup Vite + React](../2-basic-react/0-setup-vite-react.md)

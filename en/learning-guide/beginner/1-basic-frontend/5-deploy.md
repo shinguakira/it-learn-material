@@ -40,4 +40,4 @@ You have completed all beginner tasks. You can now:
 - Track your code with Git and GitHub
 - Deploy your site for the world to see
 
-> Next level: [Intermediate Tasks](../../intermediate/index.md)
+> Next: [6. Real Restaurant Website](6-real-restaurant-website.md)

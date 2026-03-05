@@ -40,4 +40,4 @@
 - GitとGitHubでコードを管理する
 - サイトをデプロイして世界に公開する
 
-> 次のレベルへ：[中級タスク](../../intermediate/index.md)
+> 次へ：[6. 実際のレストランWebサイト](6-real-restaurant-website.md)
