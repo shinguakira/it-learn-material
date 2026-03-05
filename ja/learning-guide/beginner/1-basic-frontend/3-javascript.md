@@ -9,9 +9,72 @@
 - [ ] HTMLの `</body>` の前に `<script src="script.js"></script>` を追加する
 - [ ] `script.js` ファイルを作成する
 - [ ] `console.log("Hello!")` を使い、ブラウザのコンソールで確認する（F12 → Console）
-- [ ] 変数を作成し、`document.getElementById()` でページに表示する
-- [ ] 履歴書ページにボタンを追加する
-- [ ] ボタンクリックでセクションの表示/非表示を切り替える
+- [ ] 変数を作成し、`document.getElementById()` でページに表示する：
+  ```js
+  const greeting = "Welcome to my resume!";
+  document.getElementById("greeting").textContent = greeting;
+  ```
+  （HTMLに先に `<p id="greeting"></p>` を追加しておくこと）
+
+### ボタンとアラート
+
+- [ ] 履歴書ページにボタンを追加する：
+  ```html
+  <button id="hello-btn">Click me</button>
+  ```
+- [ ] ボタンをクリックするとアラートが表示されるようにする：
+  ```js
+  document.getElementById("hello-btn").addEventListener("click", function() {
+    alert("Button is clicked!");
+  });
+  ```
+- [ ] ボタンをクリックしてアラートが表示されることを確認する
+
+### セクションの表示/非表示
+
+- [ ] セクションの表示を切り替えるボタンを追加する：
+  ```html
+  <button id="toggle-btn">Show/Hide Skills</button>
+  <div id="skills-section">
+    <h3>My Skills</h3>
+    <p>HTML, CSS, JavaScript</p>
+  </div>
+  ```
+  ```js
+  document.getElementById("toggle-btn").addEventListener("click", function() {
+    const section = document.getElementById("skills-section");
+    if (section.style.display === "none") {
+      section.style.display = "block";
+    } else {
+      section.style.display = "none";
+    }
+  });
+  ```
+
+### クラス名で要素を選択する
+
+- [ ] HTMLの複数の要素に `highlight` クラスを追加する：
+  ```html
+  <p class="highlight">First item</p>
+  <p class="highlight">Second item</p>
+  <p class="highlight">Third item</p>
+  ```
+- [ ] `getElementsByClassName()` で全て選択してスタイルを変更する：
+  ```js
+  const items = document.getElementsByClassName("highlight");
+  for (let i = 0; i < items.length; i++) {
+    items[i].style.backgroundColor = "yellow";
+  }
+  ```
+- [ ] `querySelectorAll()` でも同じことを試す（モダンな方法）：
+  ```js
+  document.querySelectorAll(".highlight").forEach(function(item) {
+    item.style.color = "blue";
+  });
+  ```
+
+### 問い合わせフォーム
+
 - [ ] HTMLにシンプルな問い合わせフォームを作成する：
   ```html
   <form id="contact-form">
@@ -45,7 +108,12 @@
 
 - `<script>` はJavaScriptとHTMLを接続する
 - `console.log()` はデバッグ用 — F12でブラウザのコンソールを確認
-- `document.getElementById()` でJavaScriptからHTML要素にアクセスする
+- `alert()` はポップアップメッセージを表示する — 簡単なテストに便利
+- `document.getElementById()` は `id` で1つの要素を選択する
+- `document.getElementsByClassName()` は `class` で複数の要素を選択する — コレクションが返されるのでループで処理する
+- `document.querySelectorAll()` はCSSセレクタで要素を選択するモダンな方法
+- `.textContent` は安全にテキストを設定し、`.innerHTML` はHTMLを設定する（注意して使うこと）
+- `.style.property` でJavaScriptからCSSを変更する（例：`.style.display = "none"`）
 - イベントリスナー（`onclick`、`addEventListener`）でユーザーの操作に応答する
 - `e.preventDefault()` でフォーム送信時のページリロードを防ぐ
 - `.value` で `<input>` や `<textarea>` の現在のテキストを読み取る
